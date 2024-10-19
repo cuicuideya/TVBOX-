@@ -10,15 +10,16 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-  ],
+   ],
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "👑秦始皇 | （10.9已修复）",
+      "name": "👑雅晴 | （10.19已修复）",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/cuicuideya/TVBOX-/refs/heads/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/cuicuideya/TVBOX-/refs/heads/main/lib/drpy.js"
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
     },
+
     {
       "key": "jiulong",
       "name": "🌈软件 | 九龙",
@@ -127,149 +128,7 @@
       "api": "  http://154.9.252.167:190/lib/素白.php?key=137811046",
       "categories": []
     },
-    {
-      "key": "4k-av",
-      "name": "📺搜索 | 4k-av",
-      "type": 1,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "  http://154.9.252.167:190/lib/4k-av.php?key=137811046",
-      "categories": []
-    },
-    {
-      "key": "磁力V6",
-      "name": "📺搜索 | 磁力V6",
-      "type": 1,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "  http://154.9.252.167:190/lib/%E7%A3%81%E5%8A%9B.php",
-      "categories": []
-    },
-    {
-      "key": "玩偶",
-      "name": "👽玩偶 | 4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
-    {
-      "key": "贱贱",
-      "name": "🐭贱贱 | P2P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://raw.githubusercontent.com/cuicuideya/TVBOX-/refs/heads/main/lib/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/cuicuideya/TVBOX-/refs/heads/main/lib/jp.js"
-    },
-    {
-      "key": "Dm84",
-      "name": "🚌巴士 | 动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V | 磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/"
-    },
-    {
-      "key": "米搜",
-      "name": "🦋米搜 | 夸父",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "盘他",
-      "name": "🍄盘他 | U夸",
-      "type": 3,
-      "api": "csp_PanTa",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "夸搜",
-      "name": "🐟夸搜 | 夸父",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "😹易搜 | 阿狸",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSou",
-      "name": "🦊盘搜 | 阿狸",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃阿狸",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+   
     },
     {
       "key": "drpy_js_爱看机器人",
